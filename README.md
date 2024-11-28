@@ -9,7 +9,7 @@ const CodeCraftx = {
   contact: {
     email: "mosquerabustamante88@gmail.com",
     github: "https://github.com/CodeCraftxx",
-    ig: "https://www.instagram.com/codecraft_x/saved/"
+    ig: "https://www.instagram.com/codecraft_x/"
   }
 };
 ```

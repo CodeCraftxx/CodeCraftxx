@@ -12,7 +12,7 @@ const CodeCraft = {
     ig: "https://www.instagram.com/codecraft_x/saved/"
   }
 };
-```js
+```
 # **🌟 About Me**
 ## Passionate about crafting clean, user-friendly web and mobile experiences.
 ## Currently diving deep into the MERN stack and eager to contribute to exciting projects!

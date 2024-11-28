@@ -13,10 +13,10 @@ const CodeCraft = {
   }
 };
 ```
-# **🌟 About Me**
-## Passionate about crafting clean, user-friendly web and mobile experiences.
-## Currently diving deep into the MERN stack and eager to contribute to exciting projects!
-## Let’s build something amazing together!
+## **🌟 About Me**
+- Passionate about crafting clean, user-friendly web and mobile experiences.
+- Currently diving deep into the MERN stack and eager to contribute to exciting projects!
+- Let’s build something amazing together!
 
 # **📊 My Stats**
 - Code Languages: JavaScript, Python, and more

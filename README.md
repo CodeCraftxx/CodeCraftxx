@@ -5,7 +5,7 @@ const CodeCraft = {
   interests: ["web development", "app development"],
   learning: ["MERN stack", "full-stack development"],
   lookingToCollaborateOn: ["open source projects", "web apps"],
-  funFact: "I believe coffee and code are the perfect combo! ☕💻",
+  funFact: "I believe music and code are the perfect combo! 🎵💻",
   contact: {
     email: "mosquerabustamante88@gmail.com",
     github: "https://github.com/CodeCraftxx",

@@ -1,7 +1,7 @@
-# 💻 CodeCraftxx
+# 💻 CodeCraftx
 
 ```js
-const CodeCraft = {
+const CodeCraftx = {
   interests: ["web development", "app development"],
   learning: ["MERN stack", "full-stack development"],
   lookingToCollaborateOn: ["open source projects", "web apps"],
